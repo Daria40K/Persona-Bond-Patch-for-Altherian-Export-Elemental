@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Persona Bond Patch for Altherian Export - Elemental Weaponry</name>
+	<author>Daria40K</author>
+	<packageId>Daria40K.PersonaBondPatch.AEElemental</packageId>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>Persona Bond Patch for Altherian Export - Elemental Weaponry</description>
+    <modDependencies>
+        <li>
+            <packageId>xedos.personabond</packageId>
+            <displayName>Persona Bond Forge</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2178003816</steamWorkshopUrl>
+        </li>
+
+        <li>
+            <packageId>zomuro.altherianexport</packageId>
+            <displayName>Altherian Export - Elemental Weaponry</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2268206579</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>
